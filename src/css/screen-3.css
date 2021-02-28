@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Francois+One&display=swap');
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+.screen-3 {
+    background: #0098CD;
+}
+.wrap {
+    width: 1100px;
+    margin: 0 auto;
+}
+.screen-3 .wrap .text {
+    padding-top: 20px;
+    display: flex;
+  align-items: center;
+}
+.screen-3 .wrap .text .icon {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+.screen-3 .wrap .text img{
+    position: absolute;
+    top: 28px;
+    left: 28px;
+}
+.screen-3 .wrap .text h1 {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 300%;
+    padding: 0 25px;
+}
+.screen-3 .wrap .text .big-line {
+    width: 744px;
+    height: 2px;
+    border: 1px solid white;
+}
+.screen-3 .wrap .square {
+    width: 260px;
+    height: 260px;
+    background: #ff2d2d;
+    padding: 15px;
+
+}
+

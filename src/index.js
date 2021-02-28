@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './css/Economic.css';
+import './css/Chairs.css';
 import App from './App';
 
 
